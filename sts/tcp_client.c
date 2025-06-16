@@ -13,6 +13,9 @@ test_struct_t client_data;
 result_struct_t result;
 
 
+
+
+
 void
 setup_tcp_communication(){
 
