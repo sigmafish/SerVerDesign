@@ -5,7 +5,6 @@ typedef struct _test_struct{
 } test_struct_t;
 
 
-
 typedef struct result_struct_{
 
     unsigned int c;
