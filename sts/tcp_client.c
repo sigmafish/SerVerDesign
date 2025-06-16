@@ -6,14 +6,11 @@
 #include <memory.h>
 #include "common.h"
 
-
 #define DEST_PORT            2000
 #define SERVER_IP_ADDRESS   "127.0.0.1"
 
-
 test_struct_t client_data;
 result_struct_t result;
-
 
 void
 setup_tcp_communication(){
