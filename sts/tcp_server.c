@@ -7,8 +7,10 @@
 #include <errno.h>
 #include "common.h"
 
+
 /*Server process is running on this port no. Client has to send data to this port no*/
 #define SERVER_PORT     2000 
+
 
 test_struct_t test_struct;
 result_struct_t res_struct;
