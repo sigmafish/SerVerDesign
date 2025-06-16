@@ -15,6 +15,7 @@ test_struct_t test_struct;
 result_struct_t res_struct;
 char data_buffer[1024];
 
+
 void
 setup_tcp_server_communication(){
 
